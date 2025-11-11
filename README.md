@@ -35,10 +35,10 @@ Ce projet met en œuvre un système orienté objet en C++ permettant de gérer d
 
 - Sous‑classes concrètes : Classique, Electrique, Hybride.
 
-- Méthodes pour :
+**Méthodes pour :**
 
-. Afficher les informations d’un véhicule (afficher()).
+- Afficher les informations d’un véhicule (afficher()).
 
-. Calculer la consommation / l’énergie restante selon la distance parcourue (calculFuel(), calculCharge(), calculEnergie()).
+- Calculer la consommation / l’énergie restante selon la distance parcourue (calculFuel(), calculCharge(), calculEnergie()).
 
-. Exemple d’utilisation dans main() : instancier des véhicules, simuler des trajets, afficher état restant.
+- Exemple d’utilisation dans main() : instancier des véhicules, simuler des trajets, afficher état restant.
